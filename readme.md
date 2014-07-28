@@ -1,0 +1,1 @@
+双击文本，点击颜色按钮，对选中的部分进行颜色改变；点击outline和unoutline是否对文本进行轮廓添加；viewdidappear和viewdiddisappear这两个函数用于notification的建立和移除，当用户改变手机设置之中的字体时，就会发通知给这个应用程序，应用程序的字体就会转换成系统推荐的字体，用于老年人字体等。
